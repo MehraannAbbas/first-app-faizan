@@ -13,4 +13,5 @@ if (req.url === '/api/courses'){
 
 server.listen(3000);
 console.log('Listening on Port 3000...');
+console.log('again')
 
